@@ -1,1 +1,2 @@
 label start:
+hi 
